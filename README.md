@@ -87,8 +87,7 @@ You can try **Akira Chatbot** directly from my portfolio website:
 ---
 
 ## 🏗️ System Architecture  
-
-
+```
 User Query
     │
     ▼
@@ -116,7 +115,7 @@ LLM Response Generation
     │
     ▼
 Final Answer → Displayed on Frontend
-
+```
 
 ---
 
