@@ -88,7 +88,7 @@ You can try **Akira Chatbot** directly from my portfolio website:
 
 ## 🏗️ System Architecture  
 
-```text
+
 User Query
     │
     ▼
