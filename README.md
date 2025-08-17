@@ -91,7 +91,7 @@ You can try **Akira Chatbot** directly from my portfolio website:
 User Query
     │
     ▼
-Frontend (React UI)
+Frontend
     │
     ▼
 FastAPI Backend
@@ -105,7 +105,7 @@ LangChain / LangGraph Pipeline
  └───────────────┘
     │
     ▼
-Vector Database (Pinecone)
+Vector Database
     │
     ▼
 Context Retrieval
