@@ -1,6 +1,6 @@
 # 🚀 Akira – Personal Generative AI Chatbot  
 
-**Akira** is a personal Generative AI chatbot that I (Pratyush Gautam) designed and developed **end-to-end** to showcase how Large Language Models (LLMs) can be integrated with **retrieval-augmented pipelines**, embeddings, and custom frontends.  
+**Akira** is an Advanced Multi-Agent System personal Generative AI chatbot that I (Pratyush Gautam) designed and developed **end-to-end** to showcase how Large Language Models (LLMs) can be integrated with **retrieval-augmented pipelines**, embeddings, and custom frontends.  
 
 Unlike pre-built solutions, Akira was crafted from scratch — covering **data ingestion, embedding generation, vector search, LLM orchestration, API integration, and frontend design**. The chatbot is capable of answering context-driven questions from a knowledge base in a reliable and interactive way.  
 
