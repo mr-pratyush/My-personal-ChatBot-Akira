@@ -26,12 +26,15 @@ You can try **Akira Chatbot** directly from my portfolio website:
 
 ---
 
-## 🖼️ Screenshots  
+## 🖼️ Screenshots/Preview
 
-### 🔹 Step 1 – Homepage with Bot Icon  
+### 🔹 Step 1 – Go to homepage  
+<img width="916" height="471" alt="image" src="https://github.com/user-attachments/assets/696e7c6e-a4ec-4df3-8193-8485e9d5b5d9" />
+
+### 🔹 Step 2 – Click on the chatbot Icon to open
 ![Homepage Preview](https://github.com/user-attachments/assets/0baac745-8ddd-4154-8d7a-5b0236ed2930)  
 
-### 🔹 Step 2 – Chatbot Window : Start Chatting  
+### 🔹 Step 3 – Chatbot Window : Start Chatting  
 <img width="706" height="707" alt="image" src="https://github.com/user-attachments/assets/871b7d74-831e-46f4-886a-2868039ec807" />
 
 ## 🛠️ Tech Stack  
